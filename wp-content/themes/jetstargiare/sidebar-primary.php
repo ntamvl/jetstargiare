@@ -23,7 +23,11 @@
   </div>
   <?php } ?>
 
-	<?php //get_template_part( '_sidebar_tabs' ); ?>
+	<?php
+	if (!is_home()) {
+		get_template_part( '_sidebar_tabs' );
+	}
+	?>
 
 	<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Primary Sidebar') ) : ?>
 
