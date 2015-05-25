@@ -882,6 +882,11 @@ h2.title-search-sidebar {
 	margin-right: 20px;
 }
 
+.panel-search-box-2 {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
 /*END FORM DAT VE*/
 .bordered {
 	border: solid 1px #ccc;

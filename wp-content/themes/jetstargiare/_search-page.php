@@ -1,5 +1,5 @@
 <div class="col-md-12 cont-grid featured-2" id="search-box-container">
-  <div class="panel panel-default panel-search-box">
+  <div class="panel panel-default panel-search-box-2">
     <div class="panel-body">
       <?php get_template_part( 'search-box' ); ?>
     </div>
