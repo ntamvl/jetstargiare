@@ -82,7 +82,7 @@
             </div>
           </div>
 
-          <div class="col-sm-4 col-md-4 item-featured">
+          <div class="col-sm-5 col-md-5 item-featured">
             <div class="panel panel-default panel-search-box">
               <div class="panel-body">
                 <?php get_template_part( '_tab_datve_thanhtoan' ); ?>

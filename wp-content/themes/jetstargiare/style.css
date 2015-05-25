@@ -876,8 +876,10 @@ h2.title-search-sidebar {
 	padding: 6px;
 }
 .panel-search-box {
-	width: 700px;
+	/*max-width: 700px;*/
 	margin: 0 auto;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 /*END FORM DAT VE*/
