@@ -1,2 +1,2 @@
-# jetstargiare
-for jetstargiare.net 
+# vemaybaygiareonline
+vemaybaygiareonline
