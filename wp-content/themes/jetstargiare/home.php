@@ -14,12 +14,12 @@
   <?php get_template_part( '_hinh-thuc-thanh-toan' ); ?>
 </div> -->
 
-<div class="col-md-3">
+<div class="col-md-4">
   <div style="height: 20px; line-height: 20px;"></div>
   <?php get_template_part( '_sidebar_tabs' ); ?>
 </div>
 
-<div class="col-md-6 cont-grid">
+<div class="col-md-5 cont-grid">
 
   <?php // if is home and is not paged show featured post
 
