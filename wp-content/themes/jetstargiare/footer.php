@@ -50,10 +50,22 @@
 					multiplier_h = $item.attr('class').match(/item-h(\d)/),
 					width = multiplier_w ? columnWidth*multiplier_w[1]-10 : columnWidth-10,
 					height = multiplier_h ? columnWidth*multiplier_h[1]*0.5-40 : columnWidth*0.5-40;
-				$item.css({
-					width: width,
-					//height: height
-				});
+
+        /**if (width <= 768) {
+          $item.css({
+            width: "100%"
+          });
+        } else{
+          $item.css({
+            width: width
+          });
+        }**/
+
+        $item.css({
+          width: width,
+          //height: height
+        });
+
 			});
 			return columnWidth;
 		},
