@@ -1105,6 +1105,10 @@ h3.title-flight-way {
 	float: left;
 	margin-right: 5px;
 	margin-left: 0px;
+	border: 0 !important;
+	border-radius: 0 !important;
+	height: auto !important;
+	width: auto !important;
 }
 
 .text-small .yahoo img{
