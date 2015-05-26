@@ -1121,6 +1121,16 @@ h3.title-flight-way {
 	padding: 0 !important;*/
 }
 
+.text-small img{
+	float: left;
+	border: 0 !important;
+	border-radius: 0 !important;
+	height: auto !important;
+	width: auto !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
 .text-small a {
 	color: #ff0000;
 	font-weight: 700;
