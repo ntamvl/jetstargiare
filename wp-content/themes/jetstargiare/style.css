@@ -687,26 +687,6 @@ textarea {
 		margin-right: 20px !important;
 	}
 
-	.text-small .yahoo img {
-    border: 0 none !important;
-    border-radius: 0 !important;
-    height: auto !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    width: auto !important;
-	}
-	.text-small a {
-    border-bottom: 0 none !important;
-    color: red;
-    float: left;
-    font-weight: 700;
-    margin-right: 0;
-    min-height: auto !important;
-    padding: 0 !important;
-    text-decoration: none;
-    width: auto !important;
-	}
-
 	#mainmenu {
 		float: left;
 		width: 100%;
