@@ -51,7 +51,8 @@
           </button>
           <a class="navbar-brand col-xs-10" href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>">
             <?php if ( wp_is_mobile() ) { ?>
-              <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" style="height: 50px;">
+              <!-- <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" style="height: 50px;"> -->
+              <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" style="height: 50px;">
             <?php } else { ?>
               <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" style="height: 50px;">
             <?php } ?>
