@@ -28,30 +28,26 @@
             <td class="col-dat-ve-2">
               <div class="text-big">Qua chat Yahoo hoặc chat trên website</div>
                 <div class="text-small">
-
-                <div class="yahoo">
+                  <span>
                     <a href="ymsgr:sendIM?fb.vn01">
-                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn01&m=g&t=1&l=us">
+                      <img border="0" src="http://opi.yahoo.com/online?u=fb.vn01&m=g&t=1&l=us">
                     </a>
-                </div>
-
-                  <div class="yahoo">
+                  </span>
+                  <span>
                     <a href="ymsgr:sendIM?fb.vn02">
                         <img border="0" src="http://opi.yahoo.com/online?u=fb.vn02&m=g&t=1&l=us">
                     </a>
-                </div>
-
-                  <div class="yahoo">
+                  </span>
+                  <span>
                     <a href="ymsgr:sendIM?fb.vn03">
                         <img border="0" src="http://opi.yahoo.com/online?u=fb.vn03&m=g&t=1&l=us">
                     </a>
-                </div>
-
-                  <div class="yahoo">
+                  </span>
+                  <span>
                     <a href="ymsgr:sendIM?fb.vn04">
                         <img border="0" src="http://opi.yahoo.com/online?u=fb.vn04&m=g&t=1&l=us">
                     </a>
-                </div>
+                  </span>
                 </div>
             </td>
           </tr>
