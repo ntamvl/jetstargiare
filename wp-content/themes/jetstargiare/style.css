@@ -1121,7 +1121,7 @@ h3.title-flight-way {
 	padding: 0 !important;*/
 }
 
-.text-small img{
+.tab-content > .text-small img{
 	float: left;
 	border: 0 !important;
 	border-radius: 0 !important;
