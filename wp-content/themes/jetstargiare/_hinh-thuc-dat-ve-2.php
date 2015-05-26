@@ -69,11 +69,11 @@
             <td class="col-dat-ve-2">
               <div class="text-big">Đặt vé qua điện thoại</div>
               <div class="text-small">
-                <span>(08) 730.50.180</span>
-                <span>(08) 730.50.181</span>
-                <span>(08) 730.50.182</span>
-                <span>(08) 730.50.500</span>
-                <span>0902.98.53.55</span>
+                <span>(08) 730.50.180 | </span>
+                <span>(08) 730.50.181 | </span>
+                <span>(08) 730.50.182 | </span>
+                <span>(08) 730.50.500 | </span>
+                <span>0902.98.53.55 | </span>
                 <span>0902.53.85.86</span>
               </div>
             </td>
