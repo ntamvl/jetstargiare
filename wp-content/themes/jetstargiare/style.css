@@ -1113,6 +1113,8 @@ h3.title-flight-way {
 	margin: 0 !important;
 	padding: 0 !important;
 	width: auto !important;
+	float: left;
+	margin-right: 5px !important;
 }
 
 .text-small a {
