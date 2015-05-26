@@ -30,22 +30,22 @@
                 <div class="text-small">
                   <span>
                     <a href="ymsgr:sendIM?fb.vn01">
-                      <img border="0" src="http://opi.yahoo.com/online?u=fb.vn01&m=g&t=1&l=us">
+                      <img class="yahoo" border="0" src="http://opi.yahoo.com/online?u=fb.vn01&m=g&t=1&l=us">
                     </a>
                   </span>
                   <span>
                     <a href="ymsgr:sendIM?fb.vn02">
-                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn02&m=g&t=1&l=us">
+                        <img class="yahoo" border="0" src="http://opi.yahoo.com/online?u=fb.vn02&m=g&t=1&l=us">
                     </a>
                   </span>
                   <span>
                     <a href="ymsgr:sendIM?fb.vn03">
-                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn03&m=g&t=1&l=us">
+                        <img class="yahoo" border="0" src="http://opi.yahoo.com/online?u=fb.vn03&m=g&t=1&l=us">
                     </a>
                   </span>
                   <span>
                     <a href="ymsgr:sendIM?fb.vn04">
-                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn04&m=g&t=1&l=us">
+                        <img class="yahoo" border="0" src="http://opi.yahoo.com/online?u=fb.vn04&m=g&t=1&l=us">
                     </a>
                   </span>
                 </div>

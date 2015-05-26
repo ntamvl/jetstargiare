@@ -1101,22 +1101,12 @@ h3.title-flight-way {
 	color: #6a6a6a;
 }
 .text-small .yahoo {
+	clear: both;
 	float: left;
 	margin-right: 5px;
 }
 
 .text-small .yahoo img{
-	border: 0 !important;
-	border-radius: 0 !important;
-	height: auto !important;
-	margin: 0 !important;
-	padding: 0 !important;
-	width: auto !important;
-}
-
-.text-small img{
-	float: left;
-	margin-right: 5px;
 	border: 0 !important;
 	border-radius: 0 !important;
 	height: auto !important;
