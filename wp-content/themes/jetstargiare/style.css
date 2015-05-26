@@ -1131,6 +1131,10 @@ h3.title-flight-way {
 	padding: 0 !important;
 }
 
+.tab-content > .text-small a{
+	min-height: auto !important;
+}
+
 .text-small a {
 	color: #ff0000;
 	font-weight: 700;
