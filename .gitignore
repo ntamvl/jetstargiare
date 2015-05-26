@@ -1,4 +1,5 @@
 *.log
+.gitignore
 sitemap.xml
 sitemap.xml.gz
 wp-content/advanced-cache.php
