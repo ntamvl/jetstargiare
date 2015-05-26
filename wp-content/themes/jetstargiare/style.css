@@ -1132,7 +1132,7 @@ h3.title-flight-way {
 }
 
 .tab-content > .text-small a{
-	min-height: auto !important;
+	min-height: 0 !important;
 }
 
 .text-small a {
