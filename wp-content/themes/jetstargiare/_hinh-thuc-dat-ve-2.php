@@ -31,25 +31,25 @@
 
                 <div class="yahoo">
                     <a href="ymsgr:sendIM?fb.vn01">
-                        <img class="img-responsive" border="0" src="http://opi.yahoo.com/online?u=fb.vn01&m=g&t=1&l=us">
+                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn01&m=g&t=1&l=us">
                     </a>
                 </div>
 
                   <div class="yahoo">
                     <a href="ymsgr:sendIM?fb.vn02">
-                        <img class="img-responsive" border="0" src="http://opi.yahoo.com/online?u=fb.vn02&m=g&t=1&l=us">
+                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn02&m=g&t=1&l=us">
                     </a>
                 </div>
 
                   <div class="yahoo">
                     <a href="ymsgr:sendIM?fb.vn03">
-                        <img class="img-responsive" border="0" src="http://opi.yahoo.com/online?u=fb.vn03&m=g&t=1&l=us">
+                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn03&m=g&t=1&l=us">
                     </a>
                 </div>
 
                   <div class="yahoo">
                     <a href="ymsgr:sendIM?fb.vn04">
-                        <img class="img-responsive" border="0" src="http://opi.yahoo.com/online?u=fb.vn04&m=g&t=1&l=us">
+                        <img border="0" src="http://opi.yahoo.com/online?u=fb.vn04&m=g&t=1&l=us">
                     </a>
                 </div>
                 </div>
@@ -69,12 +69,12 @@
             <td class="col-dat-ve-2">
               <div class="text-big">Đặt vé qua điện thoại</div>
               <div class="text-small">
-                <a href="tel:0873085180">(08) 730.50.180</a>
-                <a href="tel:0873050181">(08) 730.50.181</a>
-                <a href="tel:0873050182">(08) 730.50.182</a><br>
-                <a href="tel:0873050500">(08) 730.50.500</a>
-                <a href="tel:0902985355">0902.98.53.55</a>
-                <a href="tel:0902538556">0902.53.85.86</a>
+                <span>(08) 730.50.180</span>
+                <span>(08) 730.50.181</span>
+                <span>(08) 730.50.182</span>
+                <span>(08) 730.50.500</span>
+                <span>0902.98.53.55</span>
+                <span>0902.53.85.86</span>
               </div>
             </td>
           </tr>
