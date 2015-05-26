@@ -682,6 +682,11 @@ textarea {
 		visibility: hidden !important;
 	}
 
+	.panel-search-box-2 {
+		margin-left: 20px !important;
+		margin-right: 20px !important;
+	}
+
 	#mainmenu {
 		float: left;
 		width: 100%;

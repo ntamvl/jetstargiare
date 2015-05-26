@@ -19,7 +19,7 @@
 
 		<?php if ( is_search() ) { ?>
 
-			<p class="result">Result for: <strong><i><?php echo $s ?></i></strong></p>
+			<p class="result">Kết quả  tìm kiếm cho: <strong><i><?php echo $s ?></i></strong></p>
 
 		<?php }  ?>
 
