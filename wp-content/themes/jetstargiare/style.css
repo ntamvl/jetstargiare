@@ -1142,7 +1142,7 @@ h3.title-flight-way {
 	margin-right: 0px;
 
 	border-bottom: 0 !important;
-  min-height: auto !important;
+  min-height: 0 !important;
   padding: 0 !important;
   text-decoration: none;
   width: auto !important;
