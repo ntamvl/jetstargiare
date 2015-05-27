@@ -26,6 +26,8 @@
                                                   'vé máy bay',
                                                   'vé máy bay vietjet',
                                                   've-may-bay-vietjet',
+                                                  've-may-bay-jetstar',
+                                                  've-may-bay-vietnam-airlines',
                                                   'vé máy bay vietjet giá rẻ',
                                                   've may bay vietjet gia re',
                                                   'promotion',
