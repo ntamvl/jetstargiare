@@ -43,7 +43,9 @@
   <?php }  ?>
 
   <div class="grid">
-    <?php //query_posts ('posts_per_page=1'); ?>
+    <?php //query_posts ('posts_per_page=1');
+      query_posts( array( 'posts_per_page' => 2 ) );
+    ?>
 
     <?php if (have_posts()) :?><?php while(have_posts()) : the_post(); ?>
 
@@ -130,14 +132,14 @@
 
     $big = 999999999; // need an unlikely integer
 
-    echo paginate_links( array(
-      'base' => str_replace( $big, '%#%', esc_url( get_pagenum_link( $big ) ) ),
-      'format' => '?paged=%#%',
-      'current' => max( 1, get_query_var('paged') ),
-      'total' => $wp_query->max_num_pages,
-      'prev_text' => __('&laquo; Trước'),
-      'next_text' => __('Sau &raquo;'),
-    ) );
+    // echo paginate_links( array(
+    //   'base' => str_replace( $big, '%#%', esc_url( get_pagenum_link( $big ) ) ),
+    //   'format' => '?paged=%#%',
+    //   'current' => max( 1, get_query_var('paged') ),
+    //   'total' => $wp_query->max_num_pages,
+    //   'prev_text' => __('&laquo; Trước'),
+    //   'next_text' => __('Sau &raquo;'),
+    // ) );
     ?>
 
   </div>
