@@ -23,18 +23,14 @@
                         // 'orderby' => 'meta_value_num',
                         'tag_slug__in' => array(
                                                   've-may-bay',
-                                                  'vé máy bay',
-                                                  'vé máy bay vietjet',
                                                   've-may-bay-vietjet',
                                                   've-may-bay-jetstar',
                                                   've-may-bay-vietnam-airlines',
-                                                  'vé máy bay vietjet giá rẻ',
-                                                  've may bay vietjet gia re',
+                                                  've-may-vietjet-gia-re',
                                                   'promotion',
-                                                  've may bay khuyen mai',
+                                                  've-may-bay-khuyen-mai',
                                                   'khuyen mai',
-                                                  'vé máy bay khuyến mãi',
-                                                  'vé máy bay giá rẻ'
+                                                  've may bay gia re'
                                                 ),
                         'orderby' => 'date',
                         'order' => 'DESC'
