@@ -10,8 +10,8 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery-1.10.2.min.js"></script>
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/select2.min.js"></script>
 <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery-ui.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/select2.min.js"></script>
 
 <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/bootstrap.min.js"></script>
 <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/isotope.js"></script>
@@ -169,6 +169,12 @@ $(document).ready(function(){
   $.getJSON( "<?php echo get_stylesheet_directory_uri(); ?>/js/active_airports.json", function( airport_list ) {
     $(".departure-search").select2({data: airport_list});
     $(".destination-search").select2({data: airport_list});
+
+    // begin set value for search form when search submit
+    $("#select2-airport-code-1").select2("val", "<?php echo $_GET['departure']; ?>");
+    $("#select2-airport-code-2").select2("val", "<?php echo $_GET['destination']; ?>");
+    // end set value for search form when search submit
+
   });
   // End ajax call airport code
 
@@ -189,6 +195,14 @@ $(document).ready(function(){
   }
 
   // jQuery('#container-iframe').height($(window).height());
+
+  // begin set value for search form when search submit
+  $("#from_date").val("<?php echo $_GET['from_date']; ?>");
+  $("#to_date").val("<?php echo $_GET['to_date']; ?>");
+  $("#adult > [value='<?php echo $_GET['adult']; ?>']").attr("selected", "true");
+  $("#child > [value='<?php echo $_GET['children']; ?>']").attr("selected", "true");
+  $("#infant > [value='<?php echo $_GET['infant']; ?>']").attr("selected", "true");
+  // end set value for search form when search submit
 
 });
 

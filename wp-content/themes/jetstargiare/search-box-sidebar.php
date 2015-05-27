@@ -24,7 +24,7 @@
       <div class="col-md-12">
         <span class="title-search-mini">Điểm khởi hành</span>
         <div class="">
-         <select id="select2-airport-code" class="form-control style-form2 populate placeholder location-choose departure-search" name="departure">
+         <select id="select2-airport-code-1" class="form-control style-form2 populate placeholder location-choose departure-search" name="departure">
            <option value="SGN">Hồ Chí Minh  (SGN)</option>
          </select>
        </div>
@@ -32,7 +32,7 @@
      <div class="col-md-12">
       <span class="title-search-mini">Điểm đến</span>
       <div class="">
-        <select id="select2-airport-code" class="form-control style-form2 populate placeholder location-choose destination-search" name="destination">
+        <select id="select2-airport-code-2" class="form-control style-form2 populate placeholder location-choose destination-search" name="destination">
           <option value="HAN">Hà Nội (HAN)</option>
         </select>
       </div>
@@ -42,13 +42,13 @@
       <div class="col-md-12">
         <span class="title-search-mini">Ngày đi</span>
         <div class="wap-field-form">
-          <input type="text" class="form-control style-form2 from_date" name="from_date" />
+          <input type="text" class="form-control style-form2 from_date" name="from_date" id="from_date" />
         </div>
       </div>
       <div class="col-md-12">
         <span class="title-search-mini">Ngày về</span>
         <div class="wap-field-form">
-          <input type="text" class="form-control style-form2 to_date" name="to_date">
+          <input type="text" class="form-control style-form2 to_date" name="to_date" id="to_date">
         </div>
       </div>
     </div>

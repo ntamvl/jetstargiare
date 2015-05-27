@@ -56,6 +56,10 @@
         $('#loader_box').hide();
     });
 
+    // alert("I am an alert box 22222222!");
+    // $("#select2-airport-code-1").select2("val", "<?php echo $_GET['departure']; ?>");
+    // $("#select2-airport-code-2").select2("val", "<?php echo $_GET['destination']; ?>");
+
   });
 </script>
 <?php get_footer(); ?>
